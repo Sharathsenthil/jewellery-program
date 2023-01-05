@@ -1,1 +1,1 @@
-# jewellery-program
+# jewelry-program
